@@ -1,2 +1,16 @@
+
+
 streamlit
-openai
+langchain
+langgraph
+langchain-core
+langchain-community
+langchain-google-genai
+sentence-transformers
+chromadb
+python-dotenv
+pydantic
+google-generativeai
+grandalf # Opsional, untuk visualisasi graph ASCII jika diinginkan
+# Jika Anda menggunakan TavilySearchResults, tambahkan juga:
+# tavily-python

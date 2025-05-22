@@ -1,16 +1,13 @@
-
-
-streamlit
-langchain
-langgraph
-langchain-core
-langchain-community
-langchain-google-genai
-sentence-transformers
-chromadb
-python-dotenv
-pydantic
-google-generativeai
-grandalf # Opsional, untuk visualisasi graph ASCII jika diinginkan
-# Jika Anda menggunakan TavilySearchResults, tambahkan juga:
-# tavily-python
+requests==2.31.0
+beautifulsoup4==4.12.3
+langchain==0.1.12
+langchain-community>=0.0.28
+langchain-google-genai==0.0.11
+langgraph==0.0.27
+python-dotenv==1.0.1
+chromadb==0.4.24
+sentence-transformers==2.5.1
+torch==2.7.0
+torchvision==0.22.0
+transformers==4.38.2 
+markdown==3.5.2
